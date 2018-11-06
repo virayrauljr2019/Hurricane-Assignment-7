@@ -1,0 +1,5 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=59299:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/raulvirayjr/IdeaProjects/Hurricane/out/production/Hurricane Main
+
+The Distance traveled from ParistoSanfrancisco is  8952.4 km
+The Total distance traveled by Hurricane Gloria is 7292.2 km
+Process finished with exit code 0
